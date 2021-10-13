@@ -1,2 +1,14 @@
 Pengertian GIT:
 Git adalah version control system yang digunakan para developer untuk mengembangkan software secara bersama-bersama.
+
+Istilah dalam GIT:
+1. Repo : Fo;der project.
+2. Commit : Rekaman dari repo.
+3. Hash : Penanda unik pada sebuah commit.
+4. Checkout : Berpindah ke sebuah commit.
+5. Branch : Cabang bebas dari sebuah commit.
+6. Merge : Menggabungkan branch.
+7. Remote : Sumber yang memiliki repo.
+8. Clone : Mengambil repo dari remote.
+9. Push : Mengirim commit ke repo.
+10. Pull : mengambil commit dari repo.
