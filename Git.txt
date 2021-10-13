@@ -1,0 +1,2 @@
+Pengertian GIT:
+Git adalah version control system yang digunakan para developer untuk mengembangkan software secara bersama-bersama.
